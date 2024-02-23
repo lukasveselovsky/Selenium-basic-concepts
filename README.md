@@ -28,7 +28,7 @@ To get started with this project, make sure you have Java and Maven installed on
 
 ## Usage
 
-This project provides a basic setup for Selenium automation testing. You can write your test cases in Java using Selenium WebDriver API.
+The project is designed to understand the basic concepts of automated testing in Selenium and includes several simple and advanced tests.
 
 ### Running Tests
 
