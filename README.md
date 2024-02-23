@@ -1,6 +1,6 @@
 # Selenium Basic Concepts
 
-This project serves as an introduction to basic concepts of Selenium automation testing using Java. It contains Maven configuration along with necessary dependencies to get started with Selenium testing.
+This project serves as an introduction to basic concepts of Selenium automation testing using Java. It contains Maven configuration along with necessary dependencies to get started with Selenium testing. In the src/test/java directory there are several examples for testing a web page written in PHP. The individual tests were created locally , but if you want to try individual tests you need to change BASE_URL = "http:/localhost/playground" to https://furbo.sk/playground/. The project is a result of the course Automation testing in Selenium by Martin Skarbala.
 
 ## Getting Started
 
@@ -55,4 +55,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to contact the project owner at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or suggestions regarding this project, feel free to contact the project owner at [lukas.veselovsky1@gmail.com](mailto:lukas.veselovsky1@gmail.com).
