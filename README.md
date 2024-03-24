@@ -12,7 +12,7 @@ To get started with this project, make sure you have Java and Maven installed on
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/username/Selenium-basic-concepts.git
+    git clone https://github.com/lukasveselovsky/Selenium-basic-concepts.git
     ```
 
 2. Navigate to the project directory:
